@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/albertBuenaventura/tailwindcss-prefix-modifier/issues"
   },
-  "homepage": "https://github.com/albertBuenaventura/tailwindcss-prefix-modifier#readme"
+  "homepage": "https://github.com/albertBuenaventura/tailwindcss-prefix-modifier#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
 }
