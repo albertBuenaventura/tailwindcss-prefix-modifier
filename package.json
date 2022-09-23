@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-prefix-modifier",
+  "version": "1.0.0",
+  "description": "Add prefix on tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertBuenaventura/tailwindcss-prefix-modifier.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "prefix"
+  ],
+  "author": "Albert Buenaventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertBuenaventura/tailwindcss-prefix-modifier/issues"
+  },
+  "homepage": "https://github.com/albertBuenaventura/tailwindcss-prefix-modifier#readme"
+}
